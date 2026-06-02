@@ -24,6 +24,6 @@ App Store Connect fields:
 
 Notes before App Store submission:
 
-- The current support contact uses GitHub Issues because no public support email was present in the repository.
+- The public support contact is `semiperfumer [at] gmail.com`, with GitHub Issues as an additional route.
 - If you want a lower-friction support route, add a public support email or contact form to `support/index.html`, `privacy-policy/index.html`, and `legal-disclosure/index.html`.
 - The App Store privacy label should match the app behavior. Based on the current source, the likely answer is that the developer does not collect data, with StoreKit purchases handled by Apple.
